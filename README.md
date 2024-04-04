@@ -6,8 +6,7 @@ Setting Up the Environment
 To begin building our voice-responsive OpenAI chatbot, it's essential to set up the right development environment. This involves installing necessary libraries and configuring API access. Here's how you can get started:
 
 1. Install Required Libraries
-Your chatbot relies on several Python libraries, as listed in the requirements.txt file. These libraries include Streamlit for the web interface, OpenAI for accessing speech processing services, and others for specific functionalities like audio recording. Install them by running the following command in your project directory:
-# pip install -r requirements.txt
+Your chatbot relies on several Python libraries, as listed in the requirements.txt file. These libraries include Streamlit for the web interface, OpenAI for accessing speech processing services, and others for specific functionalities like audio recording. Install them by running the following command in your project directory: pip install -r requirements.txt
 Here's a quick breakdown of the key libraries:
 
 streamlit: For building and running the web app.
